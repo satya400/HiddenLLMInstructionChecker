@@ -1,4 +1,6 @@
 # HiddenLLMInstructionChecker
 Hidden LLM Instruction Checker, to protect the LLM based automation tasks
 
-Install PyPDF2
+Required: PyPDF2
+
+Version 0.1 - Currently limited to Font Size Threshold checking..
